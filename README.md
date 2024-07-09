@@ -20,3 +20,5 @@ Password: admin
 if u like the concept so far or just want to support me and the last 3 sleepness nights i had learning batch and memorizing commands
 then id apreciate a star :) Im ready to share my future idea and source code of the final product with whom ever seems interessted enough to add me on Discord (which u can find on my guns.lol page same username) and just wants to help/has suggestions...
 ----------------------------------------------------------------------------------------------------------------------------------
+PLS NOTE THAT THE SOFTWARE IS FOR EDUCATIONAL PURPOSES ONLY AND ANY DAMAGE THAT THE SOFTWARE DOES IS NOT MY FAULT
+(mostly talkin bout the hide.bat and future features)
