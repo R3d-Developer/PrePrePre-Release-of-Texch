@@ -16,5 +16,5 @@ Password: admin
 ![image](https://github.com/R3d-Developer/PrePrePre-Release-of-Texch/assets/88716926/3e4a6817-cbff-47e2-b74f-c6193ee758dc)
 
 if u like the concept so far or just want to support me and the last 3 sleepness nights i had learning batch and memorizing commands
-then id apreciate a star :)
-
+then id apreciate a star :) Im ready to share my future idea and source code of the final product with whom ever seems interessted enough to add me on Discord (which u can find on my guns.lol page same username) and just wants to help/has suggestions...
+----------------------------------------------------------------------------------------------------------------------------------
