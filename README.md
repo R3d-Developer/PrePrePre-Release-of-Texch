@@ -9,6 +9,7 @@ Updated with instructions to make it easier for people who may not know much abo
 
 the software itself is currently 70 Ger and 30 Eng but i will realse two version for both languages as soon as i finish the project
 the current only login data is
+its also as a batch format so u can easly fork it and edit is as u like maybe give me some improvements or tell me what i should add to it... but the finall version will be just a exe 
 Username: admin
 Password: admin
 
