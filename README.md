@@ -4,6 +4,7 @@ Welcome to Texch (Teksch)
 a 101% Batchfile only Multitool with simple Abilitys like Encryption and Decryption of Chat messages, My Colour Batch palet is inclueded as well
 and a super useful "Hide.bat" all this is in a very early state of Development so the Repository and the software it self will be 
 Updated with instructions to make it easier for people who may not know much about Batch
+PLS DO NOT FORGET ITS JUST A PROVE OF CONCEPT AND IS NOT EVEN CLOSE TO BEING FINISHED!
 --------------------------------------------------------------------------------------------------------------------------------------
 ![image](https://github.com/R3d-Developer/PrePrePre-Release-of-Texch/assets/88716926/9deb0a14-27cf-40cf-95d4-c03b81e6a7ad)
 
